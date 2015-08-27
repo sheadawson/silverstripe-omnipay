@@ -40,7 +40,6 @@ Here are the possible states a payment can have
  * Created - new payment model
  * Authorized - payment capture has been authorised by gateway
  * Captured - money has been sucessfully received
- * Completed - completely paid
  * Refund - funds have been returned to payer
  * Voided - payment has been cancelled
 
